@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ## Initial Database
 ```
-sudo su - postgres (enter the password, if it's the first time enter <mark>postgres</mark> as password)
+sudo su - postgres (enter the password, if it's the first time enter postgres as password)
 psql
 CREATE DATABASE bitly_alter;
 ```
